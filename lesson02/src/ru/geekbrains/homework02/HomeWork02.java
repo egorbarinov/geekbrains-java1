@@ -158,7 +158,6 @@ public class HomeWork02 {
         System.out.println(Arrays.toString(ar4));
         shifter(ar4, -10);
         System.out.println(Arrays.toString(ar4));
-
     }
 }
 
